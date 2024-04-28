@@ -1,16 +1,3 @@
-# Sample back-end application instrumented with X-Ray SDK
+# Sample application instrumented with X-Ray SDK
 
-The example [AWS X-Ray](https://aws.amazon.com/xray/) instrumented back-end service
-
-**Command reference**
-
-Deploy
-```
-kubectl apply -f x-ray-sample-back-k8s.yml
-```
-
-Delete
-```
-kubectl delete -f x-ray-sample-back-k8s.yml
-```
-
+The example [AWS X-Ray](https://aws.amazon.com/xray/) instrumented back-end and front-end services
