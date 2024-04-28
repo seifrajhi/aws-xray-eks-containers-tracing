@@ -11,5 +11,5 @@ require (
 	github.com/aws/aws-xray-sdk-go v1.0.0-rc.8
 	github.com/cihub/seelog v0.0.0-20170130134532-f561c5e57575 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
+	golang.org/x/net v0.23.0
 )
